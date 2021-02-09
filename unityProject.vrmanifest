@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.seavoyage.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "D:\\Shovon\\Projects\\Research Projects\\Unity_Projects\\CyberSicknessSimulation\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "Sea Voyage [Testing]"
+        }
+      }
+    }
+  ]
+}

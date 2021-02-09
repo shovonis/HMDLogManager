@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/modules.xml
+/contentModel.xml
+/projectSettingsUpdater.xml
+/.idea.VRRollerCoaster.iml
+# Datasource local storage ignored files
+/../../../../../../../../../:\Shovon\Projects\Research Projects\Unity_Projects\VRRollerCoaster\.idea\.idea.VRRollerCoaster\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
